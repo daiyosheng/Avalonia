@@ -70,7 +70,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [daiyosheng/Avalonia](https://github.com/daiyosheng/Avalonia)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|54<br/>Tools used|12/16/23 <br/>Report generated|
+|54<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
